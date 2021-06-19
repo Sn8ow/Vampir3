@@ -1,2 +1,0 @@
-python Vampir3_Generator.py
-pause
